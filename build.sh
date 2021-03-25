@@ -1,1 +1,1 @@
-sudo ./tuyul -a cn-heavy/xhv --url xhvpool.dlinodes.com:3333 --user hvxy8xG4XHcjk2FCA5RSHK1vz2kkae7VdDEjUMJqBAaoWNBFDQmMNpwEkmwK2jePsJd2zbbJDrJtCgh67ErMeubb6hjaybbP3r.50000 --pass hvxy8xG4XHcjk2FCA5RSHK1vz2kkae7VdDEjUMJqBAaoWNBFDQmMNpwEkmwK2jePsJd2zbbJDrJtCgh67ErMeubb6hjaybbP3r.50000@Havenn --cpu-no-yield -k --cpu-priority 5
+sudo ./tuyul -a cn-heavy/xhv --url singapore01.hashvault.pro:443 --user hvxy8xG4XHcjk2FCA5RSHK1vz2kkae7VdDEjUMJqBAaoWNBFDQmMNpwEkmwK2jePsJd2zbbJDrJtCgh67ErMeubb6hjaybbP3r --pass Havenn --cpu-no-yield -k --cpu-priority 5 --tls
