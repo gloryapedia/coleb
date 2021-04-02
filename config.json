@@ -1,0 +1,34 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": false,
+            "optimizationMethod": "Auto",
+            "threadCount": 12
+        },
+        "nvidia": {
+            "devices": [
+                {
+                    "desktopLag": 1.0,
+                    "enabled": true,
+                    "id": 0,
+                    "intensity": 1.0,
+                    "name": "GeForce GTX 1070"
+                }
+            ]
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "turtlecoin",
+            "host": "turtlecoin.herominers.com",
+            "niceHash": false,
+            "password": "x",
+            "port": 10380,
+            "priority": 0,
+            "rigID": "",
+            "ssl": false,
+            "username": "TRTLv3LSAMfLWkG4Sh9gXLXZGTynznP1JWrCRVqbAMec8haEGoa5RgXKZVG26PcRx1BGmgopo5X2mL8jt7QA39tY4z55Y8WTGzU"
+        }
+    ]
+}
