@@ -8,11 +8,11 @@
         "nvidia": {
             "devices": [
                 {
-                    "desktopLag": 100.0,
+                    "desktopLag": 50.0,
                     "enabled": true,
                     "id": 0,
-                    "intensity": 100.0,
-                    "name": "Tesla T4"
+                    "intensity": 50.0,
+                    "name": "Quadro M4000"
                 }
             ]
         }
