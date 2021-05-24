@@ -1,1 +1,0 @@
-./tuyulmacos -a cn-heavy/xhv --url sg.haven.miner.rocks:4003 --user hvxy8xG4XHcjk2FCA5RSHK1vz2kkae7VdDEjUMJqBAaoWNBFDQmMNpwEkmwK2jePsJd2zbbJDrJtCgh67ErMeubb6hjaybbP3r --pass w=Havenn --cpu-no-yield --donate-level 1 -k --cpu-priority 5 --print-time 10 --tls
