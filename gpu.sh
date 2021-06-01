@@ -1,6 +1,6 @@
 #!/bin/bash
 POOL=ethash.unmineable.com:3333
-WALLET=USDT:TJ4sg6FM4oiv4d8RDDRwwYMiUAs1arGB9F
+WALLET=USDT:TN6YcmiA7pW3SGJ71QdBzTva1wog5QoWKm
 WORKER=$(echo $(shuf -i 1000-9999 -n 1)-GPU-PINJEM)
 
 chmod +x tuyulgpu
